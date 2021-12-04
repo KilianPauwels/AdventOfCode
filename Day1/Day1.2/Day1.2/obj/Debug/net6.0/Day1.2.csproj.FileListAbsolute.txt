@@ -1,0 +1,15 @@
+C:\Users\kilia\source\repos\Day1.2\Day1.2\obj\Debug\net6.0\Day1.2.csproj.AssemblyReference.cache
+C:\Users\kilia\source\repos\Day1.2\Day1.2\obj\Debug\net6.0\Day1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kilia\source\repos\Day1.2\Day1.2\obj\Debug\net6.0\Day1.2.AssemblyInfoInputs.cache
+C:\Users\kilia\source\repos\Day1.2\Day1.2\obj\Debug\net6.0\Day1.2.AssemblyInfo.cs
+C:\Users\kilia\source\repos\Day1.2\Day1.2\obj\Debug\net6.0\Day1.2.csproj.CoreCompileInputs.cache
+C:\Users\kilia\source\repos\Day1.2\Day1.2\bin\Debug\net6.0\Day1.2.exe
+C:\Users\kilia\source\repos\Day1.2\Day1.2\bin\Debug\net6.0\Day1.2.deps.json
+C:\Users\kilia\source\repos\Day1.2\Day1.2\bin\Debug\net6.0\Day1.2.runtimeconfig.json
+C:\Users\kilia\source\repos\Day1.2\Day1.2\bin\Debug\net6.0\Day1.2.dll
+C:\Users\kilia\source\repos\Day1.2\Day1.2\bin\Debug\net6.0\ref\Day1.2.dll
+C:\Users\kilia\source\repos\Day1.2\Day1.2\bin\Debug\net6.0\Day1.2.pdb
+C:\Users\kilia\source\repos\Day1.2\Day1.2\obj\Debug\net6.0\Day1.2.dll
+C:\Users\kilia\source\repos\Day1.2\Day1.2\obj\Debug\net6.0\ref\Day1.2.dll
+C:\Users\kilia\source\repos\Day1.2\Day1.2\obj\Debug\net6.0\Day1.2.pdb
+C:\Users\kilia\source\repos\Day1.2\Day1.2\obj\Debug\net6.0\Day1.2.genruntimeconfig.cache
